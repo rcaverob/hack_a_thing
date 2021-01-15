@@ -1,5 +1,8 @@
 # Hack-a-thing: GraphQL
 
+## Description
+A simple server that uses GraphQL. It contains a list of courses and professors and responds to queries about these.
+
 ## How to Use
 
 Clone this repo and then run `npm install` in the command line to install all dependencies.
