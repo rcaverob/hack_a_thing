@@ -1,7 +1,7 @@
 # Hack-a-thing: GraphQL
 
 ## What I did
-I coded a simple implementation of GraphQL. The implemented server contains a list of courses and professors and responds to queries about these. 
+I coded a simple implementation of GraphQL. I created a schema to define courses and professors and how they relate. I created a list of courses and professors and made it so that the server responds to queries about these (both viewing and adding). 
 
 ## How to Use
 
