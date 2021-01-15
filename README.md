@@ -1,7 +1,7 @@
 # Hack-a-thing: GraphQL
 
-## Description
-A simple server that uses GraphQL. It contains a list of courses and professors and responds to queries about these.
+## What I did
+I coded a simple implementation of GraphQL. The implemented server contains a list of courses and professors and responds to queries about these. 
 
 ## How to Use
 
