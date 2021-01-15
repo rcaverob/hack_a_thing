@@ -3,7 +3,10 @@
 ## How to Use
 
 Clone this repo and then run `npm install` in the command line to install all dependencies.
-Do `npm run start` to start the server. Navigate to localhost at port 3000 to test the server.
+
+Do `npm run start` to start the server. 
+
+Navigate to localhost:4000/graphql to test the server.
 
 Here are some example queries to test the server:
 
